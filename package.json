@@ -2,5 +2,6 @@
   "name": "@copilot/api",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["copilot", "web", "rest", "restful", "api", "framework"]
 }
