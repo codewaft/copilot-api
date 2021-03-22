@@ -1,7 +1,9 @@
 {
-  "name": "@copilot/api",
-  "version": "1.0.0",
+  "name": "@copilot/rest",
+  "version": "0.0.1",
   "main": "dist/index.js",
+  "repository": "codewaft/copilot-rest",
+  "homepage": "https://github.com/codewaft/copilot-rest",
   "license": "MIT",
   "keywords": ["copilot", "web", "rest", "restful", "api", "framework"]
 }
